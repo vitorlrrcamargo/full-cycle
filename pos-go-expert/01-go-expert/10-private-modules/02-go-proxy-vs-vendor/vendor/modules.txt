@@ -1,0 +1,3 @@
+# github.com/vitorlrrcamargo/full-cycle-private/fcutils-secret v0.0.0-20250113123349-ecc8105fd974
+## explicit; go 1.23.2
+github.com/vitorlrrcamargo/full-cycle-private/fcutils-secret/pkg/events
